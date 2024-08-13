@@ -19,15 +19,15 @@ Audio contains a wealth of information that often goes untapped, extending far b
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   
-  [firework-show-short-64657.webm](https://github.com/user-attachments/assets/df874ee9-0c76-48db-8551-16c7635e5c7d)
-
+  [firework-show-short-64657.webm](https://github.com/user-attachments/assets/f6bdef61-fe73-438a-901d-c13330bf371e)
+  
   <img src="demo/firework-show-short-64657_2.png" alt="Audio 1 Waveform" width="400"/>
   <img src="demo/firework-show-short-64657.png" alt="Audio 1 Waveform" width="400"/>
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
 
-  [pianos-by-jtwayne-7-174717.webm](https://github.com/user-attachments/assets/6eec41a8-b842-4f13-9266-dd40c3081c49)
+  [pianos-by-jtwayne-7-174717.webm](https://github.com/user-attachments/assets/1760dec7-b13c-4042-a623-ec74ebe18b4c)
 
   <img src="demo/pianos-by-jtwayne-7-174717.png" alt="Audio 1 Waveform" width="400"/>
   <img src="demo/pianos-by-jtwayne-7-174717_2.png" alt="Audio 1 Waveform" width="400"/>
@@ -35,7 +35,7 @@ Audio contains a wealth of information that often goes untapped, extending far b
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   
-  [thunder_3-144891-B-19.webm](https://github.com/user-attachments/assets/8b68fc0d-64c2-41b9-be6a-320f14d6ee5e)
+  [thunder_3-144891-B-19.webm](https://github.com/user-attachments/assets/0de0c7e3-dd00-4305-bd92-6cd70f15911d)
 
   <img src="demo/thunder_3-144891-B-19.png" alt="Audio 1 Waveform" width="400"/>
   <img src="demo/thunder_3-144891-B-19_2.png" alt="Audio 1 Waveform" width="400"/>
@@ -44,7 +44,7 @@ Audio contains a wealth of information that often goes untapped, extending far b
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   
-  [wafb_fill_acoustic_105_soundcity1-85457.webm](https://github.com/user-attachments/assets/b1b2313f-abcc-4dce-89a6-c5cc3c78cfa5)
+  [wafb_fill_acoustic_105_soundcity1-85457.webm](https://github.com/user-attachments/assets/384e4250-b11b-4d7e-b558-d7bc77d03080)
 
   <img src="demo/wafb_fill_acoustic_105_soundcity1-85457.png" alt="Audio 1 Waveform" width="400"/>
   <img src="demo/wafb_fill_acoustic_105_soundcity1-85457_2.png" alt="Audio 1 Waveform" width="400"/>
