@@ -6,7 +6,7 @@ This project aims to fine-tune a __Wav2Vec2Bert__ model to generate audio embedd
 </p>
 
 <p align="center">
-        🤗 <a href="https://huggingface.co/youzarsif/wav2vec2bert_2_diffusion"> Model on Hugging Face</a>&nbsp | ﻿﻿  <a href="https://colab.research.google.com/drive/1zUTEUwHZFy7A1Kdtp3C2Y16LD1RNM0yi?usp=sharing">📝 Training Notebook</a>&nbsp 
+        🤗 <a href="https://huggingface.co/youzarsif/wav2vec2bert_2_diffusion"> Model on Hugging Face</a>&nbsp | ﻿﻿  <a href="https://colab.research.google.com/drive/1F-3C3iSj-xhss2ueRUi6s8h5nCB7fS-X?usp=sharing">📝 Training Notebook</a>&nbsp 
 <br>
 
         
