@@ -1,0 +1,8 @@
+datasets
+transformers
+torchaudio
+jiwer
+accelerate
+diffusers
+gradio
+librosa
