@@ -10,7 +10,7 @@ This project aims to fine-tune a __Wav2Vec2Bert__ model to generate audio embedd
 <br>
 
         
-## Introdution
+## Introduction
 Audio contains a wealth of information that often goes untapped, extending far beyond what we typically imagine. With the rise of __Latent Diffusion__ models and their impressive generative capabilities, there is a growing interest in exploring diverse conditioning techniques. The most common approach involves using __CLIP__ (Contrastive Language-Image Pre-Training) text encoders to condition the model. However, audio data offers a rich and multifaceted source of information that can significantly enhance the conditioning process.
 
 
