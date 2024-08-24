@@ -1,5 +1,5 @@
 # audio2img
-This project aims to fine-tune a __Wav2Vec2Bert__ model to generate audio embeddings that can be used in place of traditional __CLIP__ text embeddings. By integrating audio embeddings, we can leverage the unique properties of audio data to unlock new possibilities for __Stable Diffusion__ models.
+This project aims to fine-tune a __Wav2Vec2Bert__ audio encoder model to generate audio embeddings that can be used in place of traditional __CLIP__ text encoder. By integrating audio embeddings, we can leverage the unique properties of audio data to unlock new possibilities for __Stable Diffusion__ models.
 
 <p align="center">
   <img src="demo/out959put.png" width="400"/>
@@ -104,7 +104,7 @@ class TrainBert(Trainer):
         outputs=outputs.last_hidden_state
         loss = Contrastive_loss(outputs, labels)
         outputs = (loss, outputs)
-        return (loss, outputs) if return_outputs else loss
+        return outputs if return_outputs else loss
 ```
 4. **Metrics:** We compute __Euclidean Distance__, __Cosine Similarity__, and __Mean Squared Error__, and use them as metrics, they can give us a view of how well the model is evolving to achieve alignment.
 
